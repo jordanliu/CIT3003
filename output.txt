@@ -1,0 +1,11 @@
+
+Final Minimum Spanning Tree (7 edges)
+House (3 -> 5) Distance: 2
+House (6 -> 7) Distance: 5
+House (3 -> 4) Distance: 6
+House (4 -> 8) Distance: 7
+House (1 -> 2) Distance: 9
+House (1 -> 6) Distance: 14
+House (3 -> 6) Distance: 18
+
+Total distance of all houses (in foot) = 61ft
