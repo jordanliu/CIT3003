@@ -1,11 +1,13 @@
 
-Final Minimum Spanning Tree (7 edges)
-House (3 -> 5) Distance: 2
-House (6 -> 7) Distance: 5
-House (3 -> 4) Distance: 6
-House (4 -> 8) Distance: 7
-House (1 -> 2) Distance: 9
-House (1 -> 6) Distance: 14
-House (3 -> 6) Distance: 18
+Most Effective Route (7 edges)
+kruskal.House (3 -> 5) Distance: 2
+kruskal.House (6 -> 7) Distance: 5
+kruskal.House (3 -> 4) Distance: 6
+kruskal.House (4 -> 8) Distance: 7
+kruskal.House (1 -> 2) Distance: 9
+kruskal.House (1 -> 6) Distance: 14
+kruskal.House (3 -> 6) Distance: 18
 
 Total distance of all houses (in foot) = 61ft
+Expected cost for fibre optics ($4.0/ft) = $244.0
+Expected cost for electrical cables ($1.65/ft) = $100.65
