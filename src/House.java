@@ -1,5 +1,3 @@
-package kruskal;
-
 public class House implements Comparable<House> {
     private int source;
     private int destination;
@@ -30,6 +28,6 @@ public class House implements Comparable<House> {
 
     @Override
     public String toString() {
-        return "kruskal.House (" + getSource() + " -> " + getDestination() + ") Distance: " + getDistance();
+        return "House (" + getSource() + " -> " + getDestination() + ") Distance: " + getDistance();
     }
 }
